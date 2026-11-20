@@ -21,9 +21,3 @@ Los datos fueron obtenidos de la plataforma **Our World in Data**:
 * **Lenguaje:** Python 3.13
 * **Entorno:** Jupyter Notebook
 * **Librerías:** `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
-
-## Integrantes del Grupo
-* *[Nombre Completo Integrante 1]*
-* *[Nombre Completo Integrante 2]*
-* *[Nombre Completo Integrante 3]*
-* *[Nombre Completo Integrante 4]*
